@@ -2,5 +2,6 @@
 
 
 Shamelessly grabbed from [this page]
+Usage: cd src && g++ -std=c++11 -O3 sort.cpp -o sort && sort [container-size-to-sort]
 
 [this page]: http://create.stephan-brumme.com/stl-sort
